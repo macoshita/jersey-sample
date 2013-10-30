@@ -4,9 +4,11 @@ JAX-RS Jersey + Tomcat or Jetty + Gradleのごく小さなサンプルです
 
 ## 動かし方
 
-  git clone https://github.com/mirutover/jersey-sample.git
-  cd jersey-sample
-  gradlew tomcatRun
+```sh
+git clone https://github.com/mirutover/jersey-sample.git
+cd jersey-sample
+gradlew tomcatRun
+```
 
 デプロイ先としては、beanstalkで動作確認できています
 
