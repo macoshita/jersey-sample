@@ -1,4 +1,4 @@
-package com.bugsrock.jerseysample;
+package com.github.mirutover.jerseysample;
 
 import javax.ws.rs.ApplicationPath;
 import org.glassfish.jersey.server.ResourceConfig;
