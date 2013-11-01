@@ -1,6 +1,6 @@
 # jersey-sample
 
-JAX-RS Jersey + Tomcat or Jetty + Gradleのごく小さなサンプルです
+JAX-RS Jersey + Tomcat or Jetty + Gradle + Handlebarsのごく小さなサンプルです
 
 ## 動かし方
 
@@ -11,6 +11,12 @@ gradlew tomcatRun
 ```
 
 デプロイ先としては、beanstalkで動作確認できています
+
+## Handlebars
+
+com.github.mirutover.jersey-sample.HandlebarsProcessor で処理を書いています。
+
+基本的に <https://jersey.java.net/documentation/latest/mvc.html#d0e11670> の通りにやるだけでハマりは無かったです。
 
 ## ハマったところ
 
