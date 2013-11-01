@@ -1,4 +1,4 @@
-package com.bugsrock.jerseysample.controllers;
+package com.github.mirutover.jerseysample.controllers;
 
 import javax.ws.rs.core.Application;
 
@@ -6,7 +6,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 import org.glassfish.jersey.test.JerseyTest;
 import org.junit.Test;
 
-import com.bugsrock.jerseysample.controllers.Root;
+import com.github.mirutover.jerseysample.controllers.Root;
 
 import static org.junit.Assert.*;
 
