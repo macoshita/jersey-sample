@@ -6,7 +6,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 import org.glassfish.jersey.test.JerseyTest;
 import org.junit.Test;
 
-import com.bugsrock.jerseysample.controllers.Root;
+import com.github.mirutover.jerseysample.controllers.Root;
 
 import static org.junit.Assert.*;
 

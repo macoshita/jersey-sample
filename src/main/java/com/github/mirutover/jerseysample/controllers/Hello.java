@@ -1,4 +1,4 @@
-package com.bugsrock.jerseysample.controllers;
+package com.github.mirutover.jerseysample.controllers;
 
 import javax.ws.rs.DefaultValue;
 import javax.ws.rs.GET;

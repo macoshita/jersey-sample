@@ -1,4 +1,4 @@
-package com.bugsrock.jerseysample;
+package com.github.mirutover.jerseysample;
 
 import java.io.IOException;
 import java.io.OutputStream;
